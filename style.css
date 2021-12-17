@@ -1,0 +1,24 @@
+body{
+    
+    
+    
+    
+   background-image:linear-gradient(to right, palevioletred,yellow,purple);
+    
+    
+    text-align: center;
+}
+
+#bts1{
+    
+    height: 500px;
+    width: 1000px;
+}
+
+#v123{
+    height: 250px;
+    width: 200px;
+}
+
+.contact_1 h3 { display: inline; } .contact_1 a { text-shadow: none; }
+
